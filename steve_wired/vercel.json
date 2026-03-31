@@ -1,9 +1,4 @@
 {
-  "functions": {
-    "api/steve.js": {
-      "runtime": "edge"
-    }
-  },
   "rewrites": [
     {
       "source": "/api/(.*)",
